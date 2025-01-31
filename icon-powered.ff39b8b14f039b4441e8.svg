@@ -1,0 +1,22 @@
+<svg width="51" height="58" viewBox="0 0 51 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bolt" filter="url(#filter0_d_375_10741)">
+<mask id="mask0_375_10741" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="0" width="41" height="41">
+<rect id="Bounding box" x="5.5" y="0.0961914" width="40" height="40" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_375_10741)">
+<path id="bolt_2" d="M19.5249 36.1629L21.0937 25.1811L21.1915 24.4962H20.4997H13.3115L27.4808 4.02957H29.82L28.2377 16.6885L28.1534 17.3629H28.833H37.552L21.8854 36.1629H19.5249Z" stroke="#D37E02" stroke-width="1.2"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_375_10741" x="0.237809" y="0.786707" width="50.5238" height="57.1905" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="9.28571"/>
+<feGaussianBlur stdDeviation="5.96429"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.827451 0 0 0 0 0.494118 0 0 0 0 0.00784314 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_375_10741"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_375_10741" result="shape"/>
+</filter>
+</defs>
+</svg>
